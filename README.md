@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Expense Management App<br>👯 I’m looking to collaborate on Backend<br>🤝 I’m looking for help with Database knowledge<br>🌱 I’m currently learning DSA with Java<br>💬 Ask me about How did I create my profile <br>⚡ Fun fact
+🔭 I’m currently working on Full Stack Project<br>👯 I’m looking to collaborate on Backend<br>🤝 I’m looking for help with Database knowledge<br>🌱 I’m currently learning DSA with Java.Additionally I am learning Cybersecurity and practicing Web devlopment on daily basis<br>💬 Ask me about How did I create my profile <br>
 
 
 # 💻 Tech Stack:
